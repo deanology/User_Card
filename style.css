@@ -140,8 +140,22 @@ header {
 
 /* ARTICLE */
 
+article {
+    position: relative;
+}
+
 article img {
     border-radius: 10px;
+}
+
+.post-software {
+    background: url(./images/sketch-logo.svg) no-repeat left 10px center #ffffff;
+    border: 1px solid #ebebf2;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    border-radius: 25px;
+    padding: 10px 10px 10px 35px;
 }
 
 
