@@ -352,6 +352,7 @@ article img {
     .mainn {
         flex-direction: column;
         padding: 0px;
+        margin-top: 120px;
     }
     header {
         padding: 0;
