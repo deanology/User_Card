@@ -352,7 +352,7 @@ article img {
     .mainn {
         flex-direction: column;
         padding: 0px;
-        margin-top: 80px;
+        margin-top: 90px;
     }
     .mainn>aside {
         flex: 0 0 100vw;
